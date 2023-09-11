@@ -5,12 +5,7 @@
 * Take a peek at my data analysis project sto see my skills in action <br>
 * Reach out to me at frizwanaonew@gmail.com <br>
 
-Connect with me: <br><br>
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)(https://www.linkedin.com/in/fathima-rizwana-617703157/) 
-
-<br>
-[Linkedin](https://www.linkedin.com/in/fathima-rizwana-617703157/) 
-<br>
+### Connect with me: <br><br>
 <a href="https://www.linkedin.com/in/fathima-rizwana-617703157/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 
