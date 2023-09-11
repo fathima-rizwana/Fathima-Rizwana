@@ -6,6 +6,7 @@
 * Reach out to me at frizwanaonew@gmail.com <br>
 
 Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,)](https://skillicons.dev)
 
 <br>
 Connect with me:
