@@ -5,11 +5,7 @@
 * Take a peek at my data analysis project sto see my skills in action <br>
 * Reach out to me at frizwanaonew@gmail.com <br>
 
-Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=mysql,py,)](https://skillicons.dev)
-
-<br>
-Connect with me:
- [![LinkedIn](https://www.linkedin.com/in/fathima-rizwana-617703157/) 
+Connect with me: <br>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)(https://www.linkedin.com/in/fathima-rizwana-617703157/) 
 
 
