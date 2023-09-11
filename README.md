@@ -1,7 +1,7 @@
 # Hi,🙋‍♀️ I'm Fathima Rizwana
 ## Aspiring Data Analyst with a passion for uncovering insights from data
 
-* Self-taught Data Analyst profiecient in SQL, Python, Power BI, Tableau, Excel <br>
+* Self-taught Data Analyst profiecient in **SQL**, **Python**, **Power BI**, **Tableau**, **Excel** <br>
 * Take a peek at my data analysis projects to see my skills in action <br>
 * Reach out to me at frizwanaonew@gmail.com <br>
 
